@@ -59,6 +59,11 @@ public class Main {
 
         // operator less than equal atau kurang dari sama dengan
         System.out.println("----- KURANG DARI SAMA DENGAN");
+        a=8;
+        b=1;
+        hasilKomparasi = (a <= b);
+        System.out.printf("%d <= %d --> %s \n",a,b, hasilKomparasi);
+
         a = 9;
         b = 10;
         hasilKomparasi = (a <= b);
