@@ -6,7 +6,7 @@ public class Main {
 
         // tutorialif else if statement
 
-        int a = 5;
+        int a = 10;
 
         System.out.println("ini adalah awal program");
 

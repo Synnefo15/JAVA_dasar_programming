@@ -13,7 +13,7 @@ public class Main {
 
         // ini adalah cabangnya
 
-        if (a == 10){
+        if (a == 5){
 
             System.out.println("ini adalah jalur true");
 
